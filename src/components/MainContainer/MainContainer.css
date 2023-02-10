@@ -1,0 +1,5 @@
+.MainContainer{
+    grid-area: container;
+    background-color: silver;
+    padding: 10px;
+}
